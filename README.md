@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @slothXgod
+- 👋 Hi, I’m @Tammy
 - 👀 I’m interested in ...web development
 - 🌱 I’m currently learning ...HTML and css
 - 💞️ I’m looking to collaborate on ...a social site
